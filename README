@@ -21,6 +21,7 @@ Finalize: Apply glow ink and a dye (e.g., red) to the sign.
 Notes
 Character Limit: Each sign holds 3 characters. Longer text will generate multiple files.
 Customization: Edit the Libraries files to change character designs (e.g., adjust ASCII art, standard width of 3 squares or 6 spaces).
+I wrote the libraries in Notepad with Lucida Console Regular 10 font, so there is only 1 space between the squares. On the output they become 2, so everything will be even in Minecraft as well.
 
 Recommendations:
 Use dark signs on Black concrete behind Tinted glass for best results.
@@ -58,6 +59,7 @@ RU
 Важно
 Лимит символов: На одну табличку помещается 3 символа. Для длинного текста создаётся несколько файлов.
 Настройка шрифтов: Измените файлы в Libraries, чтобы настроить внешний вид символов.
+Я писал библиотеки в Notepad с шрифтом Lucida Console Regular 10, потому между квадратами лишь 1 пробел. На выходе их становится 2, так что в Майнкрафте всё также будет ровно.
 
 Рекомендации:
 Используйте тёмные таблички на Чёрном бетоне за Тонированным стеклом.
