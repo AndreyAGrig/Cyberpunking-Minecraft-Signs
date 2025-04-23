@@ -6,6 +6,7 @@ Custom Libraries: Modify the .txt files in Libraries to create your own characte
 Automatic Splitting: If your text exceeds 3 characters, multiple files are generated (e.g., cyberpunked_HELLO_1, cyberpunked_HELLO_2).
 
 Usage Instructions
+You need to download the "dist" folder if you don't want to compile the source code. The "dist" folder should contain the Libraries folder with text files. You can edit them.
 Input Text: Run the program and enter your desired text.
 Generate Files: The program creates a folder with files named cyberpunked_<YOUR_TEXT>_<NUMBER>.txt.
 Transfer Files: Copy these files to minecraft/config/stendhal/signs/.
@@ -42,6 +43,7 @@ RU
 Автоматическое разделение: Если текст длиннее 3 символов, создаётся несколько файлов (например, cyberpunked_ПРИВЕТ_1, cyberpunked_ПРИВЕТ_2).
 
 Инструкция
+Вам нужно скачать папку dist, если не хотите компилировать исходный код. В папке dist должна находиться папка Libraries с текстовыми файлами. Вы можете их редактировать.
 Ввод текста: Запустите программу и введите текст.
 Генерация файлов: Программа создаст папку с файлами вида cyberpunked_<ВАШ_ТЕКСТ>_<НОМЕР>.txt.
 Перенос файлов: Скопируйте файлы в minecraft/config/stendhal/signs/.
