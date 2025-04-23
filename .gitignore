@@ -1,6 +1,6 @@
 Results
-dist
 build
 verify_symbols.py
 main.spec
 .*
+*.spec
