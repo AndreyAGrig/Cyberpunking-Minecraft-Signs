@@ -2,9 +2,10 @@ Description
 This tool processes text files from the Libraries folder (e.g., english.txt), which define custom characters for Minecraft signs. It generates Stendhal mod-compatible files based on your input text, splitting it into multiple files if needed (2-6 characters per sign). These files must be manually placed in minecraft/config/stendhal/signs/ to use them in-game.
 
 Usage Instructions
-Input Text: Run the program and enter your desired text (python main.py).
-Generate Files: The program creates a folder with files named cyberpunked_<YOUR_TEXT>_<NUMBER>.txt in Results/.
-Transfer Files: Copy these files to minecraft/config/stendhal/signs/.
+Run the program and enter your desired text (python main.py).
+Pick the option you like.
+The program creates a folder with files named cyberpunked_<YOUR_TEXT>_<NUMBER>.txt in Results/.
+Copy these files to minecraft/config/stendhal/signs/.
 
 In-Game Setup:
 Place a sign and start editing.
@@ -14,8 +15,9 @@ Repeat for additional files if your text spans multiple signs.
 Finalize: Apply glow ink and a dye (e.g., red) to the sign.
 
 Notes
-Character Limit: Each sign holds 2-6 characters. Longer text will generate multiple files.
-Customization: Edit the Libraries files to change character designs (e.g., adjust ASCII art, standard width of 3 squares or 6 spaces).
+Each sign holds 2-6 characters. Longer text will generate multiple files.
+Edit the Libraries files to change character designs (e.g., adjust ASCII art, standard width of 3 squares or 6 spaces).
+I wrote the libraries in Notepad with Lucida Console Regular 10 font, so there is only 1 space between the squares. On the output they become 2, so everything will be even in Minecraft as well.
 
 Recommendations:
 Use dark signs on Black concrete behind Tinted glass for best results.
@@ -23,3 +25,5 @@ Tested on Minecraft 1.21.4 with Stendhal Mod 1.4.1-1.21.2.
 
 Credits
 Inspired by this tutorial https://www.youtube.com/watch?v=WtkVVcT9QDM
+
+Feel free to contribute!
